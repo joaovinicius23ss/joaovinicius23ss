@@ -1,4 +1,4 @@
-# 🦧 João Vinícius 
+#  João Vinícius 
 **`Desenvolvedor Full-Stack`** • **`Técnico em Informática`**
 
 <p align="left">
@@ -8,7 +8,7 @@ Me chamo João Vinícius, tenho 16 anos e sou natural de São José dos Campos (
 <br/>
 
 
-<h2 align="center"> 🙈 Possuo conhecimento em:</h2>
+<h2 align="center">  Possuo conhecimento em:</h2>
 
 <p align="center">
 <img 
